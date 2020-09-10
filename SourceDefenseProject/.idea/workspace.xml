@@ -2,39 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13165e32-2caf-413f-a689-b3087f453c76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BigIdProject/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BigIdProject/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BigIdProject/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BigIdProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BigIdProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BigIdProject/BigIdProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BigIdProject/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BigIdProject/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BigIdProject/src/main/java/com/bigid/automation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BigIdProject/src/main/java/com/bigid/automation/PersonalDataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SourceDefenseProject.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceDefenseProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BrowserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/resources/data.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/FileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/MetricsCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/Utilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../digital/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../digital/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../digital/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../digital/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../digital/digital.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../digital/out/production/digital/Assignment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../digital/src/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../medware" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BigIdProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BigIdProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digital/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digital/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digital/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digital/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digital/digital.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digital/out/production/digital/Assignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digital/src/Assignment.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
